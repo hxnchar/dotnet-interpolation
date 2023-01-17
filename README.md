@@ -1,4 +1,4 @@
-# DotNet Course Work (H2'21)
+# DotNet Course Work (H1'21)
 ## Assignment ✍️
 I had to design and implement a software to interpolate functions in Newtol and linear methods. 
 The input data for this work is at least 2 points, whose coordinates must be written in the following form:
